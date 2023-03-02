@@ -1,0 +1,228 @@
+2023-03-02T07:09:16+00:00 CRITICAL Uncaught Error: Undefined constant "true " in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php:41
+Stack trace:
+#0 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\includes\plugin.php(2314): include_once()
+#1 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\includes\plugin.php(661): plugin_sandbox_scrape('LayerSlider/lay...')
+#2 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\plugins.php(58): activate_plugin('LayerSlider/lay...', 'http://jolie-fl...', false)
+#3 {main}
+  thrown in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php on line 41
+
+2023-03-02T07:09:17+00:00 CRITICAL Uncaught Error: Undefined constant "true " in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php:41
+Stack trace:
+#0 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\includes\plugin.php(2314): include_once()
+#1 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\plugins.php(192): plugin_sandbox_scrape('LayerSlider/lay...')
+#2 {main}
+  thrown in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php on line 41
+
+2023-03-02T07:09:17+00:00 CRITICAL Uncaught Error: Undefined constant "true " in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php:41
+Stack trace:
+#0 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\includes\plugin.php(2314): include_once()
+#1 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\plugins.php(192): plugin_sandbox_scrape('LayerSlider/lay...')
+#2 {main}
+  thrown in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php on line 41
+
+2023-03-02T07:09:32+00:00 CRITICAL Uncaught Error: Undefined constant "true " in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php:41
+Stack trace:
+#0 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\includes\plugin.php(2314): include_once()
+#1 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\includes\plugin.php(661): plugin_sandbox_scrape('LayerSlider/lay...')
+#2 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\plugins.php(58): activate_plugin('LayerSlider/lay...', 'http://jolie-fl...', false)
+#3 {main}
+  thrown in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php on line 41
+
+2023-03-02T07:09:32+00:00 CRITICAL Uncaught Error: Undefined constant "true " in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php:41
+Stack trace:
+#0 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\includes\plugin.php(2314): include_once()
+#1 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\includes\plugin.php(661): plugin_sandbox_scrape('LayerSlider/lay...')
+#2 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\plugins.php(58): activate_plugin('LayerSlider/lay...', 'http://jolie-fl...', false)
+#3 {main}
+  thrown in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php on line 41
+
+2023-03-02T07:09:33+00:00 CRITICAL Uncaught Error: Undefined constant "true " in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php:41
+Stack trace:
+#0 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\includes\plugin.php(2314): include_once()
+#1 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\plugins.php(192): plugin_sandbox_scrape('LayerSlider/lay...')
+#2 {main}
+  thrown in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php on line 41
+
+2023-03-02T07:09:33+00:00 CRITICAL Uncaught Error: Undefined constant "true " in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php:41
+Stack trace:
+#0 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\includes\plugin.php(2314): include_once()
+#1 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\plugins.php(192): plugin_sandbox_scrape('LayerSlider/lay...')
+#2 {main}
+  thrown in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php on line 41
+
+2023-03-02T07:11:10+00:00 CRITICAL Uncaught Error: Undefined constant "true " in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php:41
+Stack trace:
+#0 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\includes\plugin.php(2314): include_once()
+#1 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\includes\plugin.php(661): plugin_sandbox_scrape('LayerSlider/lay...')
+#2 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\plugins.php(58): activate_plugin('LayerSlider/lay...', 'http://jolie-fl...', false)
+#3 {main}
+  thrown in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php on line 41
+
+2023-03-02T07:11:11+00:00 CRITICAL Uncaught Error: Undefined constant "true " in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php:41
+Stack trace:
+#0 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\includes\plugin.php(2314): include_once()
+#1 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\plugins.php(192): plugin_sandbox_scrape('LayerSlider/lay...')
+#2 {main}
+  thrown in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php on line 41
+
+2023-03-02T07:11:11+00:00 CRITICAL Uncaught Error: Undefined constant "true " in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php:41
+Stack trace:
+#0 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\includes\plugin.php(2314): include_once()
+#1 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\plugins.php(192): plugin_sandbox_scrape('LayerSlider/lay...')
+#2 {main}
+  thrown in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php on line 41
+
+2023-03-02T07:15:38+00:00 CRITICAL Uncaught Error: Undefined constant "true " in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php:41
+Stack trace:
+#0 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\includes\plugin.php(2314): include_once()
+#1 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\includes\plugin.php(661): plugin_sandbox_scrape('LayerSlider/lay...')
+#2 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\plugins.php(58): activate_plugin('LayerSlider/lay...', 'http://jolie-fl...', false)
+#3 {main}
+  thrown in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php on line 41
+
+2023-03-02T07:15:39+00:00 CRITICAL Uncaught Error: Undefined constant "true " in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php:41
+Stack trace:
+#0 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\includes\plugin.php(2314): include_once()
+#1 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\plugins.php(192): plugin_sandbox_scrape('LayerSlider/lay...')
+#2 {main}
+  thrown in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php on line 41
+
+2023-03-02T07:15:39+00:00 CRITICAL Uncaught Error: Undefined constant "true " in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php:41
+Stack trace:
+#0 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\includes\plugin.php(2314): include_once()
+#1 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\plugins.php(192): plugin_sandbox_scrape('LayerSlider/lay...')
+#2 {main}
+  thrown in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php on line 41
+
+2023-03-02T07:16:37+00:00 CRITICAL Uncaught Error: Undefined constant "true " in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php:41
+Stack trace:
+#0 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\includes\plugin.php(2314): include_once()
+#1 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\includes\plugin.php(661): plugin_sandbox_scrape('LayerSlider/lay...')
+#2 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\themes\flower-shop\framework\class\class-tgm-plugin-activation.php(964): activate_plugin('LayerSlider/lay...')
+#3 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\themes\flower-shop\framework\class\class-tgm-plugin-activation.php(845): TGM_Plugin_Activation->activate_single_plugin('LayerSlider/lay...', 'LayerSlider')
+#4 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\themes\flower-shop\framework\class\class-tgm-plugin-activation.php(665): TGM_Plugin_Activation->do_plugin_install()
+#5 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-includes\class-wp-hook.php(308): TGM_Plugin_Activation->install_plugins_page('')
+#6 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#7 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#8 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\admin.php(259): do_action('appearance_page...')
+#9 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\themes.php(10): require_once('C:\\Users\\Latte\\...')
+#10 {main}
+  thrown in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php on line 41
+
+2023-03-02T07:35:33+00:00 CRITICAL Uncaught Error: Undefined constant "true " in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php:41
+Stack trace:
+#0 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\includes\plugin.php(2314): include_once()
+#1 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\includes\plugin.php(661): plugin_sandbox_scrape('LayerSlider/lay...')
+#2 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\plugins.php(58): activate_plugin('LayerSlider/lay...', 'http://jolie-fl...', false)
+#3 {main}
+  thrown in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php on line 41
+
+2023-03-02T07:35:34+00:00 CRITICAL Uncaught Error: Undefined constant "true " in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php:41
+Stack trace:
+#0 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\includes\plugin.php(2314): include_once()
+#1 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\plugins.php(192): plugin_sandbox_scrape('LayerSlider/lay...')
+#2 {main}
+  thrown in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php on line 41
+
+2023-03-02T07:35:36+00:00 CRITICAL Uncaught Error: Undefined constant "true " in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php:41
+Stack trace:
+#0 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\includes\plugin.php(2314): include_once()
+#1 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\plugins.php(192): plugin_sandbox_scrape('LayerSlider/lay...')
+#2 {main}
+  thrown in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php on line 41
+
+2023-03-02T07:35:55+00:00 CRITICAL Uncaught Error: Undefined constant "true " in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php:41
+Stack trace:
+#0 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\includes\plugin.php(1253): include_once()
+#1 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\includes\plugin.php(958): uninstall_plugin('LayerSlider/lay...')
+#2 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\includes\ajax-actions.php(4698): delete_plugins(Array)
+#3 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-includes\class-wp-hook.php(308): wp_ajax_delete_plugin('')
+#4 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#5 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\admin-ajax.php(188): do_action('wp_ajax_delete-...')
+#7 {main}
+  thrown in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php on line 41
+
+2023-03-02T07:36:43+00:00 CRITICAL Uncaught Error: Undefined constant "true " in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php:41
+Stack trace:
+#0 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\includes\plugin.php(2314): include_once()
+#1 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\includes\plugin.php(661): plugin_sandbox_scrape('LayerSlider/lay...')
+#2 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\plugins.php(58): activate_plugin('LayerSlider/lay...', 'http://jolie-fl...', false)
+#3 {main}
+  thrown in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php on line 41
+
+2023-03-02T07:36:44+00:00 CRITICAL Uncaught Error: Undefined constant "true " in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php:41
+Stack trace:
+#0 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\includes\plugin.php(2314): include_once()
+#1 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\plugins.php(192): plugin_sandbox_scrape('LayerSlider/lay...')
+#2 {main}
+  thrown in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php on line 41
+
+2023-03-02T07:36:44+00:00 CRITICAL Uncaught Error: Undefined constant "true " in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php:41
+Stack trace:
+#0 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\includes\plugin.php(2314): include_once()
+#1 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\plugins.php(192): plugin_sandbox_scrape('LayerSlider/lay...')
+#2 {main}
+  thrown in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php on line 41
+
+2023-03-02T07:39:23+00:00 CRITICAL Uncaught Error: Undefined constant "true " in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php:41
+Stack trace:
+#0 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\includes\plugin.php(2314): include_once()
+#1 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\includes\plugin.php(661): plugin_sandbox_scrape('LayerSlider/lay...')
+#2 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\includes\plugin.php(867): activate_plugin('LayerSlider/lay...', '', false, false)
+#3 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\themes\flower-shop\framework\class\class-tgm-plugin-activation.php(2951): activate_plugins(Array)
+#4 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\themes\flower-shop\framework\class\class-tgm-plugin-activation.php(2999): TGMPA_List_Table->process_bulk_actions()
+#5 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\themes\flower-shop\framework\class\class-tgm-plugin-activation.php(675): TGMPA_List_Table->prepare_items()
+#6 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-includes\class-wp-hook.php(308): TGM_Plugin_Activation->install_plugins_page('')
+#7 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#8 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#9 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\admin.php(259): do_action('appearance_page...')
+#10 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\themes.php(10): require_once('C:\\Users\\Latte\\...')
+#11 {main}
+  thrown in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php on line 41
+
+2023-03-02T07:39:48+00:00 CRITICAL Uncaught Error: Undefined constant "true " in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php:41
+Stack trace:
+#0 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\includes\plugin.php(2314): include_once()
+#1 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\includes\plugin.php(661): plugin_sandbox_scrape('LayerSlider/lay...')
+#2 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\themes\flower-shop\framework\class\class-tgm-plugin-activation.php(964): activate_plugin('LayerSlider/lay...')
+#3 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\themes\flower-shop\framework\class\class-tgm-plugin-activation.php(845): TGM_Plugin_Activation->activate_single_plugin('LayerSlider/lay...', 'LayerSlider')
+#4 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\themes\flower-shop\framework\class\class-tgm-plugin-activation.php(665): TGM_Plugin_Activation->do_plugin_install()
+#5 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-includes\class-wp-hook.php(308): TGM_Plugin_Activation->install_plugins_page('')
+#6 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#7 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#8 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\admin.php(259): do_action('appearance_page...')
+#9 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\themes.php(10): require_once('C:\\Users\\Latte\\...')
+#10 {main}
+  thrown in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php on line 41
+
+2023-03-02T07:40:27+00:00 CRITICAL Uncaught Error: Undefined constant "true " in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php:41
+Stack trace:
+#0 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\includes\plugin.php(2314): include_once()
+#1 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\includes\plugin.php(661): plugin_sandbox_scrape('LayerSlider/lay...')
+#2 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\themes\flower-shop\framework\class\class-tgm-plugin-activation.php(964): activate_plugin('LayerSlider/lay...')
+#3 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\themes\flower-shop\framework\class\class-tgm-plugin-activation.php(845): TGM_Plugin_Activation->activate_single_plugin('LayerSlider/lay...', 'LayerSlider')
+#4 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\themes\flower-shop\framework\class\class-tgm-plugin-activation.php(665): TGM_Plugin_Activation->do_plugin_install()
+#5 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-includes\class-wp-hook.php(308): TGM_Plugin_Activation->install_plugins_page('')
+#6 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#7 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#8 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\admin.php(259): do_action('appearance_page...')
+#9 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\themes.php(10): require_once('C:\\Users\\Latte\\...')
+#10 {main}
+  thrown in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php on line 41
+
+2023-03-02T07:41:59+00:00 CRITICAL Uncaught Error: Undefined constant "true " in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php:41
+Stack trace:
+#0 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\includes\plugin.php(2314): include_once()
+#1 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\includes\plugin.php(661): plugin_sandbox_scrape('LayerSlider/lay...')
+#2 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\themes\flower-shop\framework\class\class-tgm-plugin-activation.php(964): activate_plugin('LayerSlider/lay...')
+#3 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\themes\flower-shop\framework\class\class-tgm-plugin-activation.php(845): TGM_Plugin_Activation->activate_single_plugin('LayerSlider/lay...', 'LayerSlider')
+#4 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\themes\flower-shop\framework\class\class-tgm-plugin-activation.php(665): TGM_Plugin_Activation->do_plugin_install()
+#5 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-includes\class-wp-hook.php(308): TGM_Plugin_Activation->install_plugins_page('')
+#6 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#7 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#8 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\admin.php(259): do_action('appearance_page...')
+#9 C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-admin\themes.php(10): require_once('C:\\Users\\Latte\\...')
+#10 {main}
+  thrown in C:\Users\Latte\Local Sites\jolie-floral\app\public\wp-content\plugins\LayerSlider\layerslider.php on line 41
+
